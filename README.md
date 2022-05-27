@@ -2,6 +2,7 @@
 A perfect Movie Matching application to refresh your mind and make your time enjoyable with your favorite genre and some of  enthralling features which satifies all the movie fantasies of avid movie fans. So Buckle up,Enjoy the Reel Ride!!!!!!
 
 Steps to run the Project:
+
 1.Download the zip folder from the github repository , extract it and open it through Visual Studio Code
 
 2.Install the following python modules: streamlit, streamlit_authenticator, pickle, pandas, requests, numpy, random, time, json, streamlit_lottie, PIL
