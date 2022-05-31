@@ -13,4 +13,4 @@ Steps to run the Project:
 
 5.Copy the link you get and paste it in the browser.
 
-6.Download similarity.pkl file from this provided link https://github.com/k-Janani/Decode-Riddle/blob/b84a9c3a1f187deec122bf28fd82241d9b517da9/similarity.pkl and add this file to
+6.Download similarity.pkl file from this provided link https://github.com/k-Janani/Decode-Riddle/blob/b84a9c3a1f187deec122bf28fd82241d9b517da9/similarity.pkl and add this file to the already downloaded and extracted zip folder.
